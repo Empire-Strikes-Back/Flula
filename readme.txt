@@ -57,7 +57,7 @@ rebase or merge
 
 releases
 
-- we, programs, have releases
+- we, programs, have releases - binaries can be downloaded from repository/releases 
 - we, libraries, use our commit hashes
 
 one branch, forks, no git tags
