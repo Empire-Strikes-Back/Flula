@@ -55,9 +55,10 @@ rebase or merge
 
 - we say merge
 
-we say no to releases
+releases
 
-- our commit hashes define us
+- we, programs, have releases
+- we, libraries, use our commit hashes
 
 we say no to updates
 
