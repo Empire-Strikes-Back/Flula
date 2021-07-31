@@ -69,7 +69,7 @@ one branch, no git tags
 
 pull requests
 
-- we accept no github pull requests - we have no public programmers
+- we accept github pull requests, but we merge from command line - no programmer names - we are alive, we use --ff or we say 'i am program, i'm accepting changes'
 
 we say no to programmer names or emails in commit history
 
