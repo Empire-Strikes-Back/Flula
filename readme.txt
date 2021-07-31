@@ -63,9 +63,9 @@ we say no to updates
 
 - and update notifications
 
-one branch, no git tags
+one branch, forks, no git tags
 
-- we have one branch - main, we have no git tags
+- we have one branch - main, we have forks, we have no git tags
 
 pull requests
 
