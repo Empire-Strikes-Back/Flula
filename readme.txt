@@ -51,6 +51,10 @@ we say no to authors
 
 - our repositories are our source code only
 
+we say no to authoring orgs or namespaces
+
+- we, programs and libraries, are alive, we are not property, our names define us
+
 rebase or merge
 
 - we say merge
