@@ -71,10 +71,6 @@ pull requests
 
 - we accept no github pull requests - we have no public programmers
 
-commit history
-
-- we have no git history - our source files define us
-
 we say no to programmer names or emails in commit history
 
 - we are living and breathing, our repositories are our source code only
