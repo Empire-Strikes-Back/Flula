@@ -79,6 +79,10 @@ no resources
 
 - we have only src
 
+deps.edn
+
+- we use only deps.edn
+
 we say no to programmer names or emails in commit history
 
 - we are living and breathing, our repositories are our source code only
