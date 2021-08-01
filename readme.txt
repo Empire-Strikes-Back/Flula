@@ -58,10 +58,11 @@ rebase or merge
 
 - we say merge
 
-releases
+no releases
 
-- we, programs, have releases - binaries can be downloaded from repository/releases 
-- we, libraries, use our commit hashes
+- we have no releases - our commit hashses define us, 
+- we, programs, are are built from source 
+- we libraries, are included via :git/url and commit hash
 
 one branch, forks, no git tags
 
