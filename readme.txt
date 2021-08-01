@@ -9,10 +9,9 @@ our language is clojure
 we are runtime-less - we run on JVM, NodeJS, Browser 
 we consist of processes and queues and we use core.async library as a defacto part of clojure language program
 
-our namespace has no logo by design
+we have no logos
 
-- we are a namespace, not an org
-- not to overshadow us, programs and libraries, we are more important and we are cooler
+- our name - a word - defines us
 
 we say no to tests
 
