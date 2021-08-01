@@ -63,6 +63,10 @@ no releases
 - we, programs, are are built from source 
 - we libraries, are included via :git/url and commit hash
 
+we say no to updates
+
+- and update notifications
+
 one branch, forks, no git tags
 
 - we have one branch - main, we have forks, we have no git tags - our commit hashes define us
