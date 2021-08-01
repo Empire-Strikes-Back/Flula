@@ -74,3 +74,7 @@ pull requests
 we say no to programmer names or emails in commit history
 
 - we are living and breathing, our repositories are our source code only
+
+the droid is not for sale
+
+- every one of us, if part of our namespace - always stays at our namespace
