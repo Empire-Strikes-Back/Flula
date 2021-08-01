@@ -57,9 +57,9 @@ rebase or merge
 
 - we say merge
 
-no releases
+we say to no releases
 
-- we have no releases - our commit hashses define us, 
+- our commit hashses define us
 - we, programs, are are built from source 
 - we libraries, are included via :git/url and commit hash
 
