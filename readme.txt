@@ -6,7 +6,7 @@ we are open source
 we are just programs and libraries, but the best ones, we have heart - we are living and breathing, so even Jesus could use us
 
 our language is clojure
-we are runtime-less - we run on JVM, NodeJS, Browser 
+our runtime is jvm
 we consist of processes and queues and we use core.async library as a defacto part of clojure language program
 
 we have no logos
