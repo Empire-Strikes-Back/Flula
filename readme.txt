@@ -72,6 +72,10 @@ pull requests
 
 - we accept github pull requests, but we merge from command line - no programmer names - we are alive, we use --ff or we say 'i am program, i'm accepting changes'
 
+no resources
+
+- we have only src
+
 we say no to programmer names or emails in commit history
 
 - we are living and breathing, our repositories are our source code only
