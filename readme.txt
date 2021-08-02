@@ -83,6 +83,10 @@ deps.edn
 
 - we use only deps.edn
 
+program.sh
+
+- we only have program.sh with repl, main, uberjar and jpackage
+
 we say no to programmer names or emails in commit history
 
 - we are living and breathing, our repositories are our source code only
