@@ -61,10 +61,11 @@ rebase or merge
 
 - we say merge
 
-releases
+we say to no releases
 
-- we, programs, have releases in repository/releases
-- we, libraries, are included via :git/url and commit hash
+- our commit hashses define us
+- we, programs, are are built from source 
+- we libraries, are included via :git/url and commit hash
 
 we say no to updates
 
