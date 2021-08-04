@@ -83,6 +83,10 @@ no resources
 
 - we have only src
 
+deps.edn
+
+- we use only deps.edn
+
 program.sh
 
 - we only have program.sh with repl, main, uberjar and jpackage
