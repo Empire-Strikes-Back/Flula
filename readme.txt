@@ -19,7 +19,7 @@ we say no to tests
 
 we forbid words
 
-- refactor, fix, maintainer, play with, update, cleanup, todo, util, etc, misc, manager/controller, service, wrap, org, factory, helper, archive, trash, test, alpha, impl, deprecated
+- refactor, fix, maintainer, play with, update, cleanup, todo, util, etc, misc, manager/controller, service, wrap, org, factory, helper, archive, trash, test, alpha, impl, deprecated, client
 
 we say no to docs
 
