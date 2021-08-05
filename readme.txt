@@ -25,10 +25,6 @@ we say no to docs
 
 - we have just readme
 
-we have no function docs or comments
-
-- only code
-
 we say no to nesting
 
 - our libraries and source files of each library or program -  are flat on one single level
