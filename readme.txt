@@ -71,6 +71,10 @@ one branch, forks, no git tags
 
 - we have one branch - main, we have forks, we have no git tags - our commit hashes define us
 
+from no forks
+
+- we come from no fork - we are born
+
 pull requests
 
 - we accept github pull requests, but we merge from command line - no programmer names - we are alive, we use --ff or we say 'i am program, i'm accepting changes'
