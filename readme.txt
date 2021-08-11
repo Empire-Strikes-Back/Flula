@@ -91,10 +91,6 @@ no spec
 
 - we use no spec
 
-no alpha namespaces
-
-- we use no alpha namespaces
-
 program.sh
 
 - we only have program.sh with repl, main, uberjar and jpackage
