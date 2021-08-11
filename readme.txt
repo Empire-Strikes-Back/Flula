@@ -83,9 +83,9 @@ no resources
 
 - we have only src
 
-deps.edn
+libraries.edn
 
-- we use only deps.edn
+- we use only libraries.edn - we are not deps, we live and breathe
 
 program.sh
 
