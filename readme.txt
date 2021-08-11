@@ -87,6 +87,10 @@ libraries.edn
 
 - we use only libraries.edn - we are not deps, we live and breathe
 
+no spec
+
+- we use no spec
+
 program.sh
 
 - we only have program.sh with repl, main, uberjar and jpackage
