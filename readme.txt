@@ -95,6 +95,10 @@ program.sh
 
 - we only have program.sh with repl, main, uberjar and jpackage
 
+simple keywords
+
+- we use simple keywords only
+
 we say no to programmer names or emails in commit history
 
 - we are living and breathing, our repositories are our source code only
