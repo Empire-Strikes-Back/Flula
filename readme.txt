@@ -91,10 +91,6 @@ deps.edn
 
 - we use only deps.edn
 
-no spec
-
-- we use no spec
-
 program.sh
 
 - we only have program.sh with repl, main, uberjar and jpackage
