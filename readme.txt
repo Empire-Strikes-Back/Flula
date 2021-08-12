@@ -87,9 +87,9 @@ no resources
 
 - we have only source
 
-libraries.edn
+deps.edn
 
-- we use only libraries.edn - we are not deps, we live and breathe
+- we use only deps.edn
 
 no spec
 
