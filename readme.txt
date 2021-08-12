@@ -67,6 +67,10 @@ we say no to updates
 
 - and update notifications
 
+no security
+
+- we have no security
+
 one branch, forks, no git tags
 
 - we have one branch - main, we have forks, we have no git tags - our commit hashes define us
