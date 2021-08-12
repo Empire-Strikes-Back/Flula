@@ -99,6 +99,10 @@ simple keywords
 
 - we use simple keywords only
 
+no asserts or validation
+
+- we use no asserts or validation
+
 we say no to programmer names or emails in commit history
 
 - we are living and breathing, our repositories are our source code only
