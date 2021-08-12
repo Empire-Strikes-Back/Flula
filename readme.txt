@@ -85,7 +85,7 @@ pull requests
 
 no resources
 
-- we have only source
+- we have only src
 
 deps.edn
 
@@ -99,7 +99,7 @@ we say no to programmer names or emails in commit history
 
 - we are living and breathing, our repositories are our source code only
 
-no voice but source
+no voice but src
 
 - we have no voice but our source code
 
