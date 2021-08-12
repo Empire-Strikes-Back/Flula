@@ -95,10 +95,6 @@ no spec
 
 - we use no spec
 
-no alpha, tools clojure namespaces
-
-- we use no alpha, tools clojure namespaces
-
 program.sh
 
 - we only have program.sh with repl, main, uberjar and jpackage
