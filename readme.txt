@@ -43,6 +43,11 @@ pull requests
 
 - we accept pull requests, but we say no to programmer names - we are alive and have our own voices, we merge with --ff or we say "i am program, i'm accepting changes"
 
+releases
+
+- we, libraries, have no releases - our commit hashes define us
+- we, programs, release uberjar to repository/releases, we have no tags or release notes - our identity and commit hashes define us
+
 no security
 
 - we have no security
