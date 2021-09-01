@@ -27,6 +27,10 @@ no nesting
 
 - we say no to nesting: all our files are on one single level - src/name
 
+simple keywords
+
+- we use simple keywords only
+
 forbidden words
 
 - we forbid words: fix, refactor, maintainer, util, impl, controller/manager, factory, helper, alpha, test, play with, update
