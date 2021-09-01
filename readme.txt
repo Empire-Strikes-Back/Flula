@@ -48,6 +48,10 @@ releases
 - we, libraries, have no releases - our commit hashes define us
 - we, programs, release uberjar to repository/releases, we have no tags or release notes - our identity and commit hashes define us
 
+no updates
+
+- we say no to updates and update notifications
+
 program.sh
 
 - we have only program.sh with repl, main, uberjar, release
