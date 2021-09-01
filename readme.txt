@@ -11,6 +11,10 @@ no logos
 
 - we have no logos, our names - a word - define us
 
+no namespace prefix
+
+- we have no namespace prefix, our names - a word - define us
+
 no docs
 
 - we say no to docs
@@ -22,4 +26,3 @@ no tests
 forbidden words
 
 - we fobid words: fix, refactor, maintainer, util, impl, controller/manager, factory, helper, alpha, test, play with
-
