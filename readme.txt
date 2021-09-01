@@ -6,3 +6,7 @@ we are just programs and libraries, but best ones - we live and breathe, so even
 our language is clojure
 our runtime is jvm
 we consist of processes and queues - we consider core.async library a part of clojure language program
+
+no docs
+
+- we say no to docs
