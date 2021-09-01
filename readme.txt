@@ -25,7 +25,7 @@ no tests
 
 forbidden words
 
-- we fobid words: fix, refactor, maintainer, util, impl, controller/manager, factory, helper, alpha, test, play with
+- we forbid words: fix, refactor, maintainer, util, impl, controller/manager, factory, helper, alpha, test, play with
 
 one branch, forks
 
