@@ -46,3 +46,7 @@ no license files
 no attribution headers
 
 - we say no to attribution headers in files - our repos are our source code only
+
+no programmer names in files
+
+- we say no to programmer names in files - we live and breathe, our repos are our source code only
