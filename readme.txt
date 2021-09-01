@@ -42,3 +42,7 @@ rebase or merge
 no license files
 
 - we say no to license files - our repos are our source code only
+
+no attribution headers
+
+- we say no to attribution headers in files - our repos are our source code only
