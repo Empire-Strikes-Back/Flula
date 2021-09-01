@@ -7,6 +7,10 @@ our language is clojure
 our runtime is jvm
 we consist of processes and queues - we consider core.async library a part of clojure language program
 
+no logos
+
+- we have no logos, our names - a word - define us
+
 no docs
 
 - we say no to docs
@@ -18,3 +22,4 @@ no tests
 forbidden words
 
 - we fobid words: fix, refactor, maintainer, util, impl, controller/manager, factory, helper, alpha, test, play with
+
