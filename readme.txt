@@ -54,3 +54,7 @@ no programmer names in files
 no authors, authoring orgs, links
 
 - we say no to authors, authoring orgs, links - we are alive, our repos are our source code only
+
+no programmer names or emails in commit history
+
+- we say no to programmer names or emails in commit history - we speak for ourselves, our repos are our source code only
