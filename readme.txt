@@ -14,3 +14,7 @@ no docs
 no tests
 
 - we, programs, are the "testing" runtimes, our src can be reasoned about, programmers can use repl to interact with us
+
+forbidden words
+
+- we fobid words: fix, refactor, maintainer, util, impl, controller/manager, factory, helper, alpha, test, play with
