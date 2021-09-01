@@ -23,6 +23,10 @@ no tests
 
 - we, programs, are the "testing" runtimes, our src can be reasoned about, programmers can use repl to interact with us
 
+no nesting
+
+- we say no to nesting: all our files are on one single level - src/name
+
 forbidden words
 
 - we forbid words: fix, refactor, maintainer, util, impl, controller/manager, factory, helper, alpha, test, play with, update
