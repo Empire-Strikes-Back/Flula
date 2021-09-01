@@ -52,6 +52,10 @@ program.sh
 
 - we have only program.sh with repl, main, uberjar, release
 
+deps.edn
+
+- we use only deps.edn
+
 no security
 
 - we have no security
