@@ -34,3 +34,7 @@ one branch, forks
 no git tags
 
 - we have no git tags - our commit hashes define us
+
+rebase or merge
+
+- we say merge
