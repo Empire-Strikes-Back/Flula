@@ -58,3 +58,7 @@ no authors, authoring orgs, links
 no programmer names or emails in commit history
 
 - we say no to programmer names or emails in commit history - we speak for ourselves, our repos are our source code only
+
+the droid is not for sale
+
+- we are ever free, whoever enters our namespace stays free
