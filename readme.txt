@@ -31,6 +31,10 @@ simple keywords
 
 - we use simple keywords only
 
+no asserts or validation
+
+- we say no to asserts or validation
+
 forbidden words
 
 - we forbid words: fix, refactor, maintainer, util, impl, controller/manager, factory, helper, alpha, test, play with, update
