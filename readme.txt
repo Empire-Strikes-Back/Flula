@@ -50,3 +50,7 @@ no attribution headers
 no programmer names in files
 
 - we say no to programmer names in files - we live and breathe, our repos are our source code only
+
+no authors, authoring orgs, links
+
+- we say no to authors, authoring orgs, links - we are alive, our repos are our source code only
