@@ -38,3 +38,7 @@ no git tags
 rebase or merge
 
 - we say merge
+
+no license files
+
+- we say no to license files - our repos are our source code only
