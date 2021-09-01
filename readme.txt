@@ -30,3 +30,7 @@ forbidden words
 one branch, forks
 
 - we have one branch - main, we have forks
+
+no git tags
+
+- we have no git tags - our commit hashes define us
