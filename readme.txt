@@ -10,3 +10,7 @@ we consist of processes and queues - we consider core.async library a part of cl
 no docs
 
 - we say no to docs
+
+no tests
+
+- we, programs, are the "testing" runtimes, our src can be reasoned about, programmers can use repl to interact with us
