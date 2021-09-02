@@ -27,6 +27,10 @@ no nesting
 
 - we say no to nesting: all our files are on one single level - src/name
 
+no resources
+
+- we have only src
+
 simple keywords
 
 - we use simple keywords only
