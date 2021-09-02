@@ -31,6 +31,10 @@ no resources
 
 - we have only src
 
+foreground
+
+- we run in foreground, no system tray
+
 simple keywords
 
 - we use simple keywords only
