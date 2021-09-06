@@ -45,7 +45,7 @@ no asserts or validation
 
 forbidden words
 
-- we forbid words: fix, tool, refactor, maintainer, util, impl, controller/manager, factory, helper, alpha, test, play with, update, archive, deprecated, todo, etc, misc
+- we forbid words: fix, tool, refactor, maintainer, util, wrap, impl, controller/manager, factory, helper, alpha, test, play with, update, archive, deprecated, todo, etc, misc, playground
 
 one branch, forks
 
