@@ -1,5 +1,5 @@
 [user]
-    name = readme
-    email = readme@readme
+    name = Readme
+    email = Readme@readme
 
 # git config --local include.path "../.gitconfig"
