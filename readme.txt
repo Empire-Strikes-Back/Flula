@@ -88,6 +88,10 @@ come from no forks
 
 - we come from no forks, we are born
 
+no voice but source
+
+- we have no voice but our source
+
 no license files
 
 - we say no to license files - our repos are our source code only
