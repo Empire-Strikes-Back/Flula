@@ -59,9 +59,9 @@ rebase or merge
 
 - we say merge
 
-pull requests
+no pull requests
 
-- we accept pull requests, but we say no to programmer names - we are alive and have our own voices, we merge with --ff or we say "i am program, i'm accepting changes"
+- we accept no pull requests
 
 releases
 
