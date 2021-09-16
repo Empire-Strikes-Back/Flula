@@ -80,6 +80,10 @@ deps.edn
 
 - we use only deps.edn
 
+perform-complete-score games
+
+- our games have no time, no opponent interference - player performs, completes, scores
+
 no security
 
 - we have no security
