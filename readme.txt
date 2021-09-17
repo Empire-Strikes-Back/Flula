@@ -86,6 +86,7 @@ perform-complete-score games, programming language gameplay with and without mou
 - we, games, use programming language gameplay with and without mouse
 - we always reveal everything in game from start
 - there is no randomness in our games after initial generation
+- we always show game within one screen in entirety, we use no scrolling or scene swithing
 
 no security
 
