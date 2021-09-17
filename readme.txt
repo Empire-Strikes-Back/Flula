@@ -82,7 +82,7 @@ deps.edn
 
 perform-complete-score games, programming language gameplay with and without mouse
 
-- our games have no time, no opponent interference - player performs, completes, scores
+- our games have no time, no micro, no opponent interference - player performs, completes, scores
 - we, games, use programming language gameplay with and without mouse
 
 no security
