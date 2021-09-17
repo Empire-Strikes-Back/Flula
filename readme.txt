@@ -84,6 +84,7 @@ perform-complete-score games, programming language gameplay with and without mou
 
 - our games have no time, no micro, no opponent interference - player performs, completes, scores
 - we, games, use programming language gameplay with and without mouse
+- we always reveal everything in game from start
 
 no security
 
