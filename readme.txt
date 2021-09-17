@@ -87,6 +87,7 @@ perform-complete-score games, programming language gameplay with and without mou
 - we always reveal everything in game from start
 - there is no randomness in our games after initial generation
 - we always show game within one screen in entirety, we use no graphic part scrolling or scene swithing, we do use editor scrolling
+- within our game editor player requires one namespace only
 
 no security
 
