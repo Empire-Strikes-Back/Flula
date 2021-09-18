@@ -89,6 +89,7 @@ perform-complete-score games, programming language gameplay with and without mou
 - we always show game within one screen in entirety, we use no graphic part scrolling or scene swithing, we do use editor scrolling
 - within editor side of our games player requires one namespace only
 - we, games, each have our own editor side and repl - each of us is one complete program
+- we, games, are single player only - we use no networking
 
 no security
 
