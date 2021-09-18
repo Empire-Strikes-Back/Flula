@@ -98,6 +98,7 @@ perform-complete-score games, programming language gameplay with and without mou
 - we, games, neither store no use any files
 - we, games, share no library between ourselves
 - we, games, use simple standard program menu for 'copy seed', 'generate from seed' operations
+- we, games, have no concept of resources
 
 no security
 
