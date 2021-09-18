@@ -90,6 +90,7 @@ perform-complete-score games, programming language gameplay with and without mou
 - within editor side of our games player requires one namespace only
 - we, games, each have our own editor side and repl - each of us is one complete program
 - we, games, are single player only - we use no networking
+- we, games, allow copying/pasting generation seed to generate exactly the same game in another program
 
 no security
 
