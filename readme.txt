@@ -26,7 +26,6 @@ no tests
 no nesting
 
 - we say no to nesting: all our files are on one single level - src/name
-- we say files of text editor for programs are extensions: each a library, all on one single level - src, alongside src/name
 
 no resources
 
@@ -84,7 +83,6 @@ deps.edn
 no programmatic interface, no extensions
 
 - we expose no programmatic interface and have no extensions - we are finite and used through our user interface only
-- we say - only text editor for programs consists of extensions
 
 perform-complete-score games, programming language gameplay with and without mouse
 
