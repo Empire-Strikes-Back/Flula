@@ -93,6 +93,7 @@ perform-complete-score games, programming language gameplay with and without mou
 - we, games, allow copying/pasting generation seed to generate exactly the same game in another program
 - we, games, neither store no use any files
 - we, games, share no library between ourselves
+- we, games, use simple standard program menu for 'copy seed', 'generate from seed' operations
 
 no security
 
