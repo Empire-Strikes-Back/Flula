@@ -26,7 +26,7 @@ no tests
 no nesting
 
 - we say no to nesting: all our files are on one single level - src/name
-- we say text editor files are extensions: each a library, all on one single level - src, alongside src/name
+- we say files of text editor for programs are extensions: each a library, all on one single level - src, alongside src/name
 
 no resources
 
