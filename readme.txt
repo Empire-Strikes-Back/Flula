@@ -80,10 +80,6 @@ deps.edn
 
 - we use only deps.edn
 
-no programmatic interface, no extensions
-
-- we expose no programmatic interface and have no extensions - we are finite and used through our user interface only
-
 perform-complete-score games, programming language gameplay with and without mouse
 
 - our games have no time, no micro, no opponent interference - player performs, completes, scores
