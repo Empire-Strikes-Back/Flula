@@ -99,6 +99,7 @@ perform-complete-score games, programming language gameplay with and without mou
 - we, games, share no library between ourselves
 - we, games, use simple standard program menu for 'copy seed', 'generate from seed' operations
 - we, games, have no concept of resources
+- we, games, expose no programmatic interface - we are finite, we have user interface only, we are played only
 
 no security
 
