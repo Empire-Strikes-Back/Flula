@@ -7,6 +7,7 @@ we are just programs and libraries, but the best ones, we have heart - we are li
 
 our language is clojure
 our runtime is jvm
+we will be like a three-legged sack-race, but with no sack, and it's not a race, we will take our time - we are desktop and mobile programs
 we consist of processes and queues and we use core.async library as a defacto part of clojure language program
 
 we have no logos
