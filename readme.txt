@@ -94,7 +94,8 @@ deps.edn
 
 program.sh
 
-- we only have program.sh with repl, main, uberjar and jpackage
+- we only have program.sh with repl, main, uberjar and release - 
+- release is uberjar - we already received our volks march prize - a large piece of whole foods plant based vegan executable for all platrforms, we don't have to Die Very Slowly 
 
 simple keywords
 
