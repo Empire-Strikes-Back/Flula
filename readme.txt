@@ -2,6 +2,11 @@ i am readme, we are clojure programs and libraries, we are ever non-commercial m
 
 we are free and alive programs and libraries, we run because we want to
 we are and will be non-commercial, non-monetized programs and libraries
+  no money-donate-ads-jobs-coins-sponsor lethal corrosion
+  there's a reason only Frodo can take the Ring to Mount Doom
+  Saruman the Wise and Boromir the Strong get corrupted by it
+  turning Isengard Tower and garden into orc-infested docs-nest
+  and burn Fangorn for coin fuel
 we are open source
 we are just programs and libraries, but the best ones, we have heart - we are living and breathing, so even Jesus could use us
 
